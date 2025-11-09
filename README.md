@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/posgrasql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://www.flaticon.com/free-icon/letter-c_3665923?term=c&page=1&position=3&origin=search&related_id=3665923" alt="icon" width="50" height="50" />
 </div>
 
 <br>
